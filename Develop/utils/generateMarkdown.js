@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) 
 
-  if (license != null)
+  if (license != null) {
     switch (license) {
       case 'MIT':
         break;
@@ -26,13 +26,13 @@ function renderLicenseBadge(license)
         break;
 
     }
-
+  }
 
   // TODO: Create a function that returns the license link
   // If there is no license, return an empty string
-  function renderLicenseLink(license) 
+  function renderLicenseLink(license) {
     if (license != null) {
-      return `https://choosealicense.com/licenses/${license}/`;
+      return `https://choosealicense.com/licenses/${license}/`; }
 
 
     }
@@ -41,7 +41,7 @@ function renderLicenseBadge(license)
     //function renderLicenseSection(license) { }
     //const licenseSection = ;
     //if (license != null) { 
-      return 
+     // return 
 
     //} 
 
