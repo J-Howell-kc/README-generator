@@ -1,53 +1,53 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(license) {
+function renderLicenseBadge(license) 
 
   if (license != null)
     switch (license) {
-      case 'MIT';
+      case 'MIT':
         break;
 
-      case 'BSD';
+      case 'BSD':
         break;
 
-      case 'ISC';
+      case 'ISC':
         break;
 
-      case 'Apache';
+      case 'Apache':
         break;
 
-      case 'GNU';
+      case 'GNU':
         break;
 
-      case 'Other';
+      case 'Other':
         break;
 
-      case 'None';
-      break;
+      case 'None':
+        break;
 
     }
-} else ''; 
 
-// TODO: Create a function that returns the license link
-// If there is no license, return an empty string
-function renderLicenseLink(license) { 
-if (license != null) {
-  return `https://choosealicense.com/licenses/${license}/`;
 
-}else  '';
-}
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
-function renderLicenseSection(license) { }
-const licenseSection = ;
-if () {   = true;
+  // TODO: Create a function that returns the license link
+  // If there is no license, return an empty string
+  function renderLicenseLink(license) 
+    if (license != null) {
+      return `https://choosealicense.com/licenses/${license}/`;
 
-} else {
 
-}
-// TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
-  return `
+    }
+    // TODO: Create a function that returns the license section of README
+    // If there is no license, return an empty string
+    //function renderLicenseSection(license) { }
+    //const licenseSection = ;
+    //if (license != null) { 
+      return 
+
+    //} 
+
+    // TODO: Create a function to generate markdown for README
+    function generateMarkdown(data) {
+      return `
   # Title
 ${data.title}
 
@@ -83,11 +83,11 @@ ${data.test}
 ### GitHub Profile link
 https://github.com/${data.github} <br />
 ### Email
-Feel free to direct any questions to ${data.email}. Thanks.`
+Feel free to direct any questions to ${data.email}. Thanks.
 
 ## Screenshot
-${data.screenshot} ;
+${ data.screenshot };`
 
-}
+    }
 
-module.exports = generateMarkdown;
+    module.exports = generateMarkdown;
