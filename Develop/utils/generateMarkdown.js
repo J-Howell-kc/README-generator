@@ -48,10 +48,46 @@ if () {   = true;
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `
-  
-  # ${data.title}
+  # Title
+${data.title}
 
-`;
+## Description
+${data.description}
+
+## Table of Contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [License](#license)
+* [Questions](#questions)
+* [Screenshot] (#screenshot)
+
+## License
+![License](${renderLicenseBadge(data.license)}) <br />
+License Info: ${renderLicenseLink(data.license)} 
+
+## Installation
+${data.installation}
+
+## Usage
+${data.usageInfo}
+
+## Contribution Guidelines
+${data.contributionGuidelines}
+
+## Tests
+${data.test}
+
+## Questions and Comments
+### GitHub Profile
+https://github.com/${data.github} <br />
+### Email
+Feel free to direct any questions to ${data.email}. Thanks.`;
+
+##Screenshot
+${data.screenshot}
+
 }
 
 module.exports = generateMarkdown;
