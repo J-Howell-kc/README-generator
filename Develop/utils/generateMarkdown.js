@@ -80,13 +80,13 @@ ${data.contributionGuidelines}
 ${data.test}
 
 ## Questions and Comments
-### GitHub Profile
+### GitHub Profile link
 https://github.com/${data.github} <br />
 ### Email
-Feel free to direct any questions to ${data.email}. Thanks.`;
+Feel free to direct any questions to ${data.email}. Thanks.`
 
-##Screenshot
-${data.screenshot}
+## Screenshot
+${data.screenshot} ;
 
 }
 
