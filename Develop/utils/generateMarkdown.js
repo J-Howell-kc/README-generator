@@ -64,11 +64,11 @@ function renderLicenseSection(license) {
   }
 
   if (license == "Other") {
-    return ''
+    return 'Other, unrecognized license chosen. Please refer to the documentation fro that license.'
   }
 
   if (license == "none") {
-    return ''
+    return 'No license chosen.'
   }
 }
 
