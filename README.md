@@ -3,7 +3,7 @@
 README generator
 
 ## Description
-A professional README file generator for node
+A generator of rofessional README markdown files
 
 ## Table of Contents
 * [Installation](#installation)
@@ -22,13 +22,13 @@ License Info: undefined
 undefined
 
 ## Usage
-Use it to make a README file
+Use it or lose it!
 
 ## Contribution Guidelines
-be nice, I guess?
+Contribute...or don't.
 
 ## Tests
-If it works, yay! If not...
+If it works, yay!
 
 ## Questions and Comments
 ### GitHub Profile link

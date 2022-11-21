@@ -31,7 +31,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (license != null) {
-    return `https://choosealicense.com/licenses/${license}/`;
+    return `https://opensource.org/licenses/alphabetical`;
   }
 
 
@@ -44,7 +44,7 @@ function renderLicenseLink(license) {
 // return 
 function renderLicenseSection(license) {
   if (license == 'MIT') {
-    return "https://opensource.org/licenses/MIT"
+    return "https://choosealicense.com/licenses/mit"
   }
 
   if (license == 'BSD') {
