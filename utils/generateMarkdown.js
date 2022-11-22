@@ -90,7 +90,7 @@ ${data.description}
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
-* [Screenshot] (#screenshot)
+* [Screenshot] (#screenShot)
 
 ## License
 ![License](${renderLicenseBadge(data.license)}) <br />

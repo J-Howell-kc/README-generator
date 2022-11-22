@@ -1,9 +1,9 @@
 
   # Title
-README generator
+README Generator
 
 ## Description
-A professional readme md file generator
+A professional README md file generator
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,7 +12,7 @@ A professional readme md file generator
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
-* [Screenshot] (#screenshot)
+* [Screenshot] (#screenShot)
 
 ## License
 ![License](undefined) <br />
@@ -25,10 +25,10 @@ undefined
 Use it or lose it!
 
 ## Contribution Guidelines
-Be nice.
+Be nice. Contribute.
 
 ## Tests
-It works, or it doesn't.
+It works...or not?
 
 ## Questions and Comments
 ### GitHub Profile link
