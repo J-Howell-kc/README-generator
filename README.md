@@ -3,7 +3,7 @@
 README generator
 
 ## Description
-A generator of rofessional README markdown files
+A professional readme md file generator
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,7 +16,7 @@ A generator of rofessional README markdown files
 
 ## License
 ![License](undefined) <br />
-License Info: undefined 
+License Info: https://opensource.org/licenses/alphabetical 
 
 ## Installation
 undefined
@@ -25,14 +25,14 @@ undefined
 Use it or lose it!
 
 ## Contribution Guidelines
-Contribute...or don't.
+Be nice.
 
 ## Tests
-If it works, yay!
+It works, or it doesn't.
 
 ## Questions and Comments
 ### GitHub Profile link
-https://github.com/undefined <br />
+https://github.com/github.com/J-Howell-kc <br />
 ### Email
 Feel free to direct any questions to undefined. Thanks.
 

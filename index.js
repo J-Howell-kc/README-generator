@@ -19,7 +19,7 @@ const questions = [
         {
             type: 'list',
             message: 'What license are you using',
-            name: 'licenseType',
+            name: 'license',
             choices: ['MIT', 'BSD', 'ISC', 'Apache', 'GNU', "other", "none"],
         },
 
@@ -59,7 +59,7 @@ const questions = [
         {
             type: 'input',
             message: 'What is your GitHub Username?',
-            name: 'GitHub',
+            name: 'github',
         },
 
         {
