@@ -33,7 +33,7 @@ const questions = [
         {
             type: 'input',
             message: 'Enter the path for a screenshot of the project:',
-            name: 'screenShot',
+            name: 'screenshot',
         },
 
         {

@@ -12,7 +12,7 @@ A professional README md file generator
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
-* [Screenshot] (#screenShot)
+* [Screenshot] (#screenshot)
 
 ## License
 ![License](undefined) <br />
@@ -25,10 +25,10 @@ undefined
 Use it or lose it!
 
 ## Contribution Guidelines
-Be nice. Contribute.
+Be nice.
 
 ## Tests
-It works...or not?
+If it works, it works!
 
 ## Questions and Comments
 ### GitHub Profile link
@@ -37,4 +37,7 @@ https://github.com/github.com/J-Howell-kc <br />
 Feel free to direct any questions to undefined. Thanks.
 
 ## Screenshot
-undefined;
+READMEscreenshot.png;
+
+## Video Link
+https://drive.google.com/file/d/1b7cF99XBaIqvTrixWKd4E1s2yU0Z_pRK/view
