@@ -1,31 +1,39 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
-
+let lincenseLink 
   if (license != null) {
     switch (license) {
       case 'MIT':
+        licenseLink = "https://img.shields.io/badge/license-MIT-green";
         break;
 
       case 'BSD':
+        licenseLink = "https://img.shields.io/badge/license-MIT-green";
         break;
 
       case 'ISC':
+        licenseLink = "https://img.shields.io/badge/license-MIT-green";
         break;
-
+        
       case 'Apache':
+        licenseLink = "https://img.shields.io/badge/license-MIT-green";
         break;
-
+       
       case 'GNU':
+        licenseLink = "https://img.shields.io/badge/license-MIT-green";
         break;
-
+       
       case 'Other':
+        licenseLink = "https://img.shields.io/badge/license-MIT-green";
         break;
 
       case 'None':
+        licenseLink = "https://img.shields.io/badge/license-MIT-green";
         break;
     }
   }
+  return licenseLink
 }
 // TODO: Create a function that returns the license link
 // If there is no license, return an empty string
@@ -90,7 +98,7 @@ ${data.description}
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
-* [Screenshot] (#screenshot)
+* [Screenshot](#screenshot)
 
 ## License
 ![License](${renderLicenseBadge(data.license)}) <br />
@@ -102,20 +110,20 @@ ${data.installation}
 ## Usage
 ${data.usageInfo}
 
-## Contribution Guidelines
-${data.contributionGuidelines}
+## Contributing
+${data.contributing}
 
 ## Tests
 ${data.test}
 
-## Questions and Comments
+## Questions 
 ### GitHub Profile link
-https://github.com/${data.github} <br />
+https://github.com/${data.github} <br/>
 ### Email
 Feel free to direct any questions to ${data.email}. Thanks.
 
 ## Screenshot
-${data.screenshot};`
+![screenshot](${data.screenshot});`
 
 }
 

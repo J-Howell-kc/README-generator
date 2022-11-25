@@ -26,7 +26,7 @@ const questions = [
         {
             type: 'input',
             message: 'Enter installation instructions.',
-            name: 'installationInstructions',
+            name: 'installation',
 
         },
 
@@ -46,7 +46,7 @@ const questions = [
         {
             type: 'input',
             message: 'Enter contribution guidelines:',
-            name: 'contributionGuidelines',
+            name: 'contributing',
 
         },
 
@@ -66,7 +66,7 @@ const questions = [
         
             type: 'input',
             message: 'Enter contact info for questions:',
-            name: 'questions',
+            name: 'email',
         },
     ]
 // TODO: Create a function to write README file

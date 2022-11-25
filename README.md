@@ -1,9 +1,9 @@
 
   # Title
-README Generator
+readme
 
 ## Description
-A professional README md file generator
+readme
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,32 +12,29 @@ A professional README md file generator
 * [Tests](#tests)
 * [License](#license)
 * [Questions](#questions)
-* [Screenshot] (#screenshot)
+* [Screenshot](#screenshot)
 
 ## License
-![License](undefined) <br />
+![License](https://img.shields.io/badge/license-MIT-green) <br />
 License Info: https://opensource.org/licenses/alphabetical 
 
 ## Installation
-undefined
+run it
 
 ## Usage
-Use it or lose it!
+use it
 
-## Contribution Guidelines
-Be nice.
+## Contributing
+do
 
 ## Tests
-If it works, it works!
+test it
 
-## Questions and Comments
+## Questions 
 ### GitHub Profile link
-https://github.com/github.com/J-Howell-kc <br />
+https://github.com/j-howell-kc <br/>
 ### Email
-Feel free to direct any questions to undefined. Thanks.
+Feel free to direct any questions to howell_j@hotmail.com. Thanks.
 
 ## Screenshot
-READMEscreenshot.png;
-
-## Video Link
-https://drive.google.com/file/d/1b7cF99XBaIqvTrixWKd4E1s2yU0Z_pRK/view
+![screenshot](READMEscreenshot.png);
