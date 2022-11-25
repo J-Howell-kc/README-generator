@@ -9,27 +9,27 @@ let lincenseLink
         break;
 
       case 'BSD':
-        licenseLink = "https://img.shields.io/badge/license-MIT-green";
+        licenseLink = "https://img.shields.io/badge/license-BSD-yellowgreen";
         break;
 
       case 'ISC':
-        licenseLink = "https://img.shields.io/badge/license-MIT-green";
+        licenseLink = "https://img.shields.io/badge/license-ISC-pink";
         break;
         
       case 'Apache':
-        licenseLink = "https://img.shields.io/badge/license-MIT-green";
+        licenseLink = "https://img.shields.io/badge/license-Apache-red";
         break;
        
       case 'GNU':
-        licenseLink = "https://img.shields.io/badge/license-MIT-green";
+        licenseLink = "https://img.shields.io/badge/license-GNU-blue";
         break;
        
       case 'Other':
-        licenseLink = "https://img.shields.io/badge/license-MIT-green";
+        licenseLink = "https://img.shields.io/badge/license-Other-white";
         break;
 
       case 'None':
-        licenseLink = "https://img.shields.io/badge/license-MIT-green";
+        licenseLink = "https://img.shields.io/badge/license-None%2C%20Because%20I%20Live%20Dangerously-yellow";
         break;
     }
   }
