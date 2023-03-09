@@ -46,7 +46,7 @@ const questions = [
         {
             type: 'input',
             message: 'Enter contribution guidelines:',
-            name: 'contributing',
+            name: 'contributingnode',
 
         },
 
